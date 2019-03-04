@@ -8,8 +8,7 @@ Source code is text files containing programming language statements. These file
 
 (This is not an admonishment.) Git is Distributed VCS (don't worry about the Distributed bit for now) - and GitHub is a service that provides it. [Use the GitHub learning resources](https://try.github.io/) to learn how to use Git. Some key terms to learn and understand are 'clone', 'commit', 'push', 'merge' and 'rebase'.
 
-    Task: Add a link to an online tutorial that you have enjoyed learning about and add yourself to the contributors file.
-		
+    Task: Add a link to an online tutorial that you have enjoyed, and add yourself to the contributors file.		
 
 1. Fork this repository
 2. Clone your copy of the repository
