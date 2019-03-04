@@ -14,7 +14,9 @@ Source code is text files containing programming language statements. These file
 2. Clone your copy of the repository
 3. Add a tutorial link to [Useful-Tutorials.md](./Useful-Tutorials.md)
 4. Add your name to the [Contributors.md](./Contributors.md) file.
-5. Submit a pull request to the upstream repository (this one!)
+5. Commit the changed files.
+6. Push them to your repository.
+7. Submit a pull request to the upstream repository (this one!)
 
 ### CI
 
