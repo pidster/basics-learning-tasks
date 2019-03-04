@@ -10,11 +10,12 @@ Source code is text files containing programming language statements. These file
 
     Task: Add a link to an online tutorial that you have enjoyed learning about and add yourself to the contributors file.
 		
-		1. Fork this repository
-		2. Clone your copy of the repository
-		3. Add a tutorial link to [Useful-Tutorials.md](./Useful-Tutorials.md)
-		4. Add your name to the [Contributors.md](./Contributors.md) file.
-		5. Submit a pull request to the upstream repository (this one!)
+
+1. Fork this repository
+2. Clone your copy of the repository
+3. Add a tutorial link to [Useful-Tutorials.md](./Useful-Tutorials.md)
+4. Add your name to the [Contributors.md](./Contributors.md) file.
+5. Submit a pull request to the upstream repository (this one!)
 
 ### CI
 
